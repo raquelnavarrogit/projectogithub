@@ -1,4 +1,4 @@
-package practicaGit;
+package projectogithub;
 
 public class Cliente {
 

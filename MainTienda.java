@@ -9,7 +9,19 @@ public class MainTienda {
 		teashop.mostrarClientes();
 		teashop.mostrarProductos();
 		
-
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		System.out.println(teashop.toString());
 	}
 
 }

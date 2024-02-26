@@ -11,6 +11,11 @@ public class Tienda {
 	Cliente cliente;
 	Producto producto;
 	
+	
+	public Tienda() {
+		super();
+	}
+	
 	public void añadirCliente () {
 		
 		String nom = JOptionPane.showInputDialog("Introduzca el nombre del cliente: ");

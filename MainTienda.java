@@ -14,10 +14,26 @@ public class MainTienda {
 		teashop.mostrarClientes();
 		teashop.mostrarProductos();
 
+
 		
 		
 		System.out.println("Esto es una prueba de git");
+	
 		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		System.out.println(teashop.toString());
+
 	}
 
 }

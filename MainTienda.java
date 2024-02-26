@@ -15,6 +15,9 @@ public class MainTienda {
 		teashop.mostrarProductos();
 
 		
+		
+		System.out.println("Esto es una prueba de git");
+		
 	}
 
 }

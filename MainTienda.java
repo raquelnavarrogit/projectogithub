@@ -8,6 +8,12 @@ public class MainTienda {
 		mercadona.añadirCliente();
 		mercadona.añadirProducto();
 		
+
+		Tienda teashop = new Tienda ();
+		
+		teashop.mostrarClientes();
+		teashop.mostrarProductos();
+
 		
 	}
 

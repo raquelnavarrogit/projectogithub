@@ -4,10 +4,6 @@ public class MainTienda {
 
 	public static void main(String[] args) {
 		
-		Tienda teashop = new Tienda ();
-		
-		teashop.mostrarClientes();
-		teashop.mostrarProductos();
 		
 		
 		
@@ -21,7 +17,19 @@ public class MainTienda {
 		
 		
 		
-		System.out.println(teashop.toString());
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		Tienda decathlon = new Tienda ();
+		System.out.println(decathlon.toString());
 	}
 
 }

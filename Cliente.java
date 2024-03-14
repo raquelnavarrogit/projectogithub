@@ -7,6 +7,7 @@ public class Cliente {
 	String nombre;
 	String apellido;
 	String dni;
+	String direccion;
 	ArrayList <Producto> compras = new ArrayList <Producto> ();
 	
 	public Cliente(String nombre, String apellido, String dni) {
